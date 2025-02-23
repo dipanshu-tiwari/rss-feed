@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>My Auto-Posting RSS Feed</title><link>https://yourwebsite.com/feed</link><description>Automatically generated RSS feed from JSON data.</description><item><title>Sample Post 1</title><link>https://yourwebsite.com/</link><description>This is the content of the first post.</description></item><item><title>Sample Post 2</title><link>https://yourwebsite.com/</link><description>This is the content of the second post.</description></item></channel></rss>
